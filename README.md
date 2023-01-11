@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 2023 年计划 </h3>
+- 深度学习 React
+- 深度学习 TypeScript
+- 微前端
+- Nginx 
