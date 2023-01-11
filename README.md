@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=7foxx)
 
 
 <h3> 2023 年计划 </h3>
