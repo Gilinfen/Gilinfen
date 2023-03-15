@@ -6,10 +6,11 @@
   <img alt="Umijs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/umijs.png" width="40" height="40" />
   <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40"
       height="40" />
-  <img alt="TS" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/typescript.png" width="40" height="40" />
-  <img alt="Vue" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202212291934382.png" width="40"
-      height="40" />
+     <img alt="JavaScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151046343.svg" width="40" height="40" />
+    <img alt="TypeeScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/typescript.png" width="40" height="40" />
   <img alt="Webpack" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/webpack.png" width="40"
+      height="40" />
+      <img alt="Vue" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202212291934382.png" width="40"
       height="40" />
   <img alt="Vite" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/vitejs (1).svg" width="40"
       height="40" />
@@ -30,6 +31,7 @@
   <img alt="ThreeJs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/Three.js_Icon.svg.png" width="40"
       height="40" />
   <img alt="Eslint" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/eslint.png" width="40" height="40" />
+      <img alt="Python" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/python.png" width="40" height="40" />
   <img alt="Git" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/git.png" width="40" height="40" />
   <img alt="MySql" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/mysql.png" width="40" height="40" />
   <img alt="Linux" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/centos-logo.png" width="40"
@@ -43,5 +45,5 @@
       height="40" />
   <img alt="JenKins" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/[Servant]Jenkins-vs-BM-A.png"
       width="40" height="40" />
-  <img alt="Python" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/python.png" width="40" height="40" />
  </div>
+
