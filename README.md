@@ -1,4 +1,4 @@
-## 🏷️ 我是 Glinfen 
+## 🏷️ I'm Glinfen 
 
 ## 💻 Language tool
 <div style="flex" >
