@@ -2,9 +2,9 @@
 <div style="flex" >
   <!-- 框架 -->
   <img alt="React" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/react.png" width="40"  />
-  <img alt="Umijs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/umijs.png" width="40"  />
   <img alt="NextJs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151533538.svg"
     width="40"  />
+  <img alt="Umijs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/umijs.png" width="40"  />
   <img alt="Electron" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151233806.svg" width="40"
    />
   <img alt="NestJs"
