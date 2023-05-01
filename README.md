@@ -10,7 +10,8 @@
   <img alt="NestJs"
     src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667.svg"
     width="40"  />
-  <img alt="Vue" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202212291934382.png" width="40"  />
+    <img alt="Babel" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011646785.svg"
+    width="40"  />
   <!-- 语言 -->
   <!-- <img alt="JavaScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151046343.svg" width="40"
      /> -->
@@ -27,20 +28,18 @@
   <img alt="Docker" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151425785.svg" width="40"  />
   <img alt="Kubernetes" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/Kubernetes-icon-color.svg.png"
     width="40"  />
-  <img alt="GitLab" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/5fc68cad3a3cf25b4e55da33_gitlab logo.png"
-    width="40"  />
+    <img alt="Redis" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011647922.svg" width="40"
+     />
   <img alt="JenKins" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151422441.svg" width="40"
      />
-    <!-- IDE工具 -->
-  <img alt="vscode" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151203383.svg" width="40"
- />
-  <img alt="Figma" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151209868.svg" width="40"
-   />
  </div>
 
 ### ⭐ Favorite tool library
 
 <div style="flex" >
+   <!-- IDE工具 -->
+  <img alt="vscode" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151203383.svg" width="40"
+ />
   <img alt="motion" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202302201921872.png" width="40"
      />
   <img alt="qiankun"
