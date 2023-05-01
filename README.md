@@ -13,10 +13,12 @@
     <img alt="Babel" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011646785.svg"
     width="40"  />
   <!-- 语言 -->
-  <!-- <img alt="JavaScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151046343.svg" width="40"
-     /> -->
+  <img alt="JavaScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151046343.svg" width="40"
+     />
   <img alt="TypeeScript" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/typescript.png" width="40"
      />
+
+    <img alt="Node" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011652385.svg" width="40"  />
   <img alt="Python" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/python.png" width="40"  />
   <!-- 构建工具 -->
   <img alt="Webpack" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/webpack.png" width="40"  />
@@ -28,7 +30,7 @@
   <img alt="Docker" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151425785.svg" width="40"  />
   <img alt="Kubernetes" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/Kubernetes-icon-color.svg.png"
     width="40"  />
-    <img alt="Redis" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011647922.svg" width="40"
+    <img alt="Redis" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011654726.svg" width="40"
      />
   <img alt="JenKins" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151422441.svg" width="40"
      />
