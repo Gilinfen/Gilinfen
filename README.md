@@ -21,6 +21,7 @@
   <!-- 构建工具 -->
   <img alt="Webpack" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/webpack.png" width="40"  />
   <img alt="Vite" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/vitejs (1).svg" width="40"  />
+  <img alt="Rollup" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/rollup-logo.svg" width="40"  />
   <!-- 服务端工具 -->
   <img alt="Git" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/git.png" width="40"  />
   <img alt="Linux" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/centos-logo.png" width="40"  />
