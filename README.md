@@ -27,12 +27,12 @@
   <img alt="Linux" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/centos-logo.png" width="40"  />
   <img alt="Nginx" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/nginx.png" width="40"  />
   <img alt="Docker" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151425785.svg" width="40"  />
-  <img alt="Kubernetes" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/Kubernetes-icon-color.svg.png"
-    width="40"  />
-    <img alt="Redis" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011654726.svg" width="40"
-     />
   <img alt="JenKins" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151422441.svg" width="40"
      />
+<!--   <img alt="Kubernetes" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/Kubernetes-icon-color.svg.png"
+    width="40"  />
+    <img alt="Redis" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011654726.svg" width="40"
+     /> -->
  </div>
 
 <!-- ### ⭐ Favorite tool library -->
