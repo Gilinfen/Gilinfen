@@ -4,11 +4,15 @@
   <img alt="React" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/react.png" width="40"  />
   <img alt="NextJs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151533538.svg"
     width="40"  />
-  <img alt="Electron" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151233806.svg" width="40"
+  <img alt="rust" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191922277.svg" width="40"
    />
-  <img alt="NestJs"
+  <img alt="tauri" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191921510.svg" width="40"
+   />
+    <img alt="NestJs"
     src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667.svg"
     width="40"  />
+  <img alt="Electron" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151233806.svg" width="40"
+   />
     <img alt="Babel" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202305011646785.svg"
     width="40"  />
   <!-- 语言 -->
