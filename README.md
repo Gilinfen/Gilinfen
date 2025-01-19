@@ -4,8 +4,10 @@
   <img alt="React" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/react.png" width="40"  />
   <img alt="NextJs" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202303151533538.svg"
     width="40"  />
-  <img alt="rust" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191922277.svg" width="40"
+  <img alt="rust" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191925928.svg" width="40"
    />
+<!--   <img alt="rust" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191922277.svg" width="40"
+   /> -->
   <img alt="tauri" src="https://picgo-any.oss-cn-shanghai.aliyuncs.com/img/202501191921510.svg" width="40"
    />
     <img alt="NestJs"
